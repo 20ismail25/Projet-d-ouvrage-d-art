@@ -35,8 +35,8 @@ L'ingéniosité de l'ouvrage réside dans la dualité de son tablier. J'ai ident
 * **La travée centrale (432 mètres) :** Elle est constituée d'une structure orthotrope en acier (largeur de 19,80 mètres). Ce choix permet d'alléger considérablement le poids propre de la partie suspendue, réduisant ainsi la section des haubans et les efforts tranchants à la base des pylônes.
 
 <p align="center">
-  <img src="chemin/vers/ton_plan_de_coupe_beton.png" width="45%" alt="Coupe du tablier en béton">
-  <img src="chemin/vers/ton_plan_de_coupe_acier.png" width="45%" alt="Coupe du tablier en acier">
+  <img width="1221" height="545" alt="Capture d&#39;écran 2026-05-09 002706" src="https://github.com/user-attachments/assets/54889e29-5fab-4962-ba96-5c9b9dd03351" />
+  <img width="1114" height="361" alt="Capture d&#39;écran 2026-05-09 002741" src="https://github.com/user-attachments/assets/49de0784-d9df-4fcb-854f-fc19e9323d52" />
   <br><em>Figure 2 : Plans de coupe techniques - À gauche, la section en béton pour les accès ; à droite, la structure en acier allégée pour la travée centrale</em>
 </p>
 
