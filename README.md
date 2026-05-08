@@ -58,8 +58,8 @@ Le dimensionnement de l'ouvrage a requis des volumes colossaux, impliquant une c
 * **Acier :** 12 000 tonnes d'acier structurel, incluant des voussoirs métalliques de 120 tonnes chacun, préfabriqués à El Salto (Jalisco) dans la plus grande usine d'Amérique latine, puis acheminés par convoi exceptionnel.
 
 <p align="center">
-  <img src="chemin/vers/ton_plan_de_principe.png" width="85%" alt="Plan de principe et d'installation">
-  <br><em>Figure 3 : Plan de principe illustrant la cinématique de construction et l'organisation logistique du site</em>
+  <img width="1211" height="465" alt="Capture d&#39;écran 2026-05-09 002955" src="https://github.com/user-attachments/assets/0d9add31-e59e-45cc-b4c3-0dbab9affc20" />
+  <br><em>Figure 3 : Plan de principe illustrant la construction et l'organisation logistique du site</em>
 </p>
 
 ### Synergie des Acteurs
